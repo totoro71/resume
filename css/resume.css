@@ -1,5 +1,38 @@
+
+
+h1{
+	text-align: center;
+	}
+
+.line-separator{
+	height:1px;
+	background:#717171;
+	border-bottom:.5px solid #313030;
+}
+
 body{
-	background-color: #B1D7D6;
-	margin: 25px; 
+	background-color: #FFFFF0;
+	margin: 25px;
+
+}
+
+.school{
+	margin: 20px 0 10px 0;
+	line-height: 10%;
+}
+
+.major{
+	margin: 18px 0 23px 0;
+	line-height: 10%;
+}
+
+.position{
+	margin: 5px 0;
+	line-height: 50%;
+}
+
+.gpa{
+	margin: 5px 0 20px 0;
+	line-height: 10%;
 }
 
